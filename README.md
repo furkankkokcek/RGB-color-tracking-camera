@@ -1,4 +1,4 @@
-# RGB-color-tracking-camera
+# RGB Color Tracking Camera
 The scope of the project is to develop RGB color tracking camera. This device
 would track one of the RGB color by understanding the direction of the color by
 looking RGB intensity matrix of image and servo motors would allow the device
